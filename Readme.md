@@ -15,10 +15,10 @@ You will be graded on:
 
 | Book Problems |                     | Points  |
 | --------------|:-------------------:|:-------:|
-| D.A.A. 2.4.1  | Do parts a, b, e    | 15 pts  |
-| D.A.A. 2.4.4  | Do parts a, b, c    | 15 pts  |
-| D.A.A. 2.4.10 | GraphComplete       | 20 pts  |
-| Total         |                     | 50 pts  |
+| D.A.A. 2.4.1  | 11 Do parts a, b, e    | 15 pts  |
+| D.A.A. 2.4.4  |  9 Do parts a, b, c    | 15 pts  |
+| D.A.A. 2.4.10 | 20 GraphComplete       | 20 pts  |
+| Total         |   40                  | 50 pts  |
 
 ## Instructions
 1. Save a word or pdf document into the LM_?_0_Written folder with your answers to the problems assigned above.
@@ -33,8 +33,8 @@ You will be graded on:
 
 | Choose 1 of 2 SPOJ Problems |                   |         |
 | ----------------------------|:-----------------:|:-------:|
-| SPOJ CANTON or BICOLOR      | Your choice       | 50 pts  |
-| Total                       |                   | 50 pts  |
+| SPOJ CANTON or BICOLOR      | 25      | 50 pts  |
+| Total                       | 35 - no success image                  | 50 pts  |
 
 ## Instructions:
 1. Use git to clone this the LM folder from Whitgit to a local machine 
